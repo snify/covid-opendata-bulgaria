@@ -1,0 +1,288 @@
+{
+  "date": "27/03/2020 17:00",
+  "total_data": [
+    {
+      "city": "София",
+      "muncipality": "София-град",
+      "confirmed": 189,
+      "dead": 3,
+      "recovered": 3,
+      "active": 183
+    },
+    {
+      "city": "Габрово",
+      "muncipality": "Габрово",
+      "confirmed": 2,
+      "dead": 0,
+      "recovered": 0,
+      "active": 2
+    },
+    {
+      "city": "Плевен",
+      "muncipality": "Плевен",
+      "confirmed": 8,
+      "dead": 0,
+      "recovered": 2,
+      "active": 6
+    },
+    {
+      "city": "Варна",
+      "muncipality": "Варна",
+      "confirmed": 13,
+      "dead": 0,
+      "recovered": 0,
+      "active": 13
+    },
+    {
+      "city": "Банско",
+      "muncipality": "Благоевград",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 1
+    },
+    {
+      "city": "Василовци, Брусарци, Монтана",
+      "muncipality": "Монтана",
+      "confirmed": 3,
+      "dead": 0,
+      "recovered": 0,
+      "active": 3
+    },
+    {
+      "city": "Лом",
+      "muncipality": "Монтана",
+      "confirmed": 4,
+      "dead": 0,
+      "recovered": 0,
+      "active": 4
+    },
+    {
+      "city": "Неопределена локация",
+      "muncipality": "Неопределена локация",
+      "confirmed": 14,
+      "dead": 0,
+      "recovered": 4,
+      "active": 10
+    },
+    {
+      "city": "Ловеч",
+      "muncipality": "Ловеч",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 1
+    },
+    {
+      "city": "Перник",
+      "muncipality": "Перник",
+      "confirmed": 2,
+      "dead": 0,
+      "recovered": 0,
+      "active": 2
+    },
+    {
+      "city": "Благоевград",
+      "muncipality": "Благоевград",
+      "confirmed": 3,
+      "dead": 0,
+      "recovered": 0,
+      "active": 3
+    },
+    {
+      "city": "Велико Търново",
+      "muncipality": "Велико Търново",
+      "confirmed": 2,
+      "dead": 0,
+      "recovered": 0,
+      "active": 2
+    },
+    {
+      "city": "Смолян",
+      "muncipality": "Смолян",
+      "confirmed": 5,
+      "dead": 0,
+      "recovered": 0,
+      "active": 5
+    },
+    {
+      "city": "Карнобат",
+      "muncipality": "Бургас",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 1
+    },
+    {
+      "city": "Бургас",
+      "muncipality": "Бургас",
+      "confirmed": 9,
+      "dead": 0,
+      "recovered": 0,
+      "active": 9
+    },
+    {
+      "city": "Пловдив",
+      "muncipality": "Пловдив",
+      "confirmed": 11,
+      "dead": 0,
+      "recovered": 0,
+      "active": 11
+    },
+    {
+      "city": "Добрич",
+      "muncipality": "Добрич",
+      "confirmed": 6,
+      "dead": 0,
+      "recovered": 0,
+      "active": 6
+    },
+    {
+      "city": "Шумен",
+      "muncipality": "Шумен",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 1
+    },
+    {
+      "city": "Пещера",
+      "muncipality": "Пазарджик",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 1
+    },
+    {
+      "city": "Карлово",
+      "muncipality": "Пловдив",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 1
+    },
+    {
+      "city": "Дупница",
+      "muncipality": "Кюстендил",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 1
+    },
+    {
+      "city": "Кюстендил",
+      "muncipality": "Кюстендил",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 1
+    },
+    {
+      "city": "Пазарджик",
+      "muncipality": "Пазарджик",
+      "confirmed": 8,
+      "dead": 0,
+      "recovered": 0,
+      "active": 8
+    },
+    {
+      "city": "Стара Загора",
+      "muncipality": "Стара Загора",
+      "confirmed": 2,
+      "dead": 0,
+      "recovered": 0,
+      "active": 2
+    },
+    {
+      "city": "Сливен",
+      "muncipality": "Сливен",
+      "confirmed": 2,
+      "dead": 0,
+      "recovered": 0,
+      "active": 2
+    },
+    {
+      "city": "Хасково",
+      "muncipality": "Хасково",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 1
+    },
+    {
+      "city": "Кърджали",
+      "muncipality": "Кърджали",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 1
+    }
+  ],
+  "total_confirmed": 293,
+  "total_recovered": 9,
+  "total_dead": 3,
+  "total_active": 281,
+  "new_data": [
+    {
+      "city": "София",
+      "muncipality": "София-град",
+      "confirmed": 17,
+      "dead": 0,
+      "recovered": 0,
+      "active": 0
+    },
+    {
+      "city": "Бургас",
+      "muncipality": "Бургас",
+      "confirmed": 3,
+      "dead": 0,
+      "recovered": 0,
+      "active": 0
+    },
+    {
+      "city": "Пловдив",
+      "muncipality": "Пловдив",
+      "confirmed": 5,
+      "dead": 0,
+      "recovered": 0,
+      "active": 0
+    },
+    {
+      "city": "Варна",
+      "muncipality": "Варна",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 0
+    },
+    {
+      "city": "Kюстендил",
+      "muncipality": "Kюстендил",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 0
+    },
+    {
+      "city": "Сливен",
+      "muncipality": "Сливен",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 0
+    },
+    {
+      "city": "Пазарджик",
+      "muncipality": "Пазарджик",
+      "confirmed": 1,
+      "dead": 0,
+      "recovered": 0,
+      "active": 0
+    }
+  ],
+  "new_confirmed": 29,
+  "new_recovered": 0,
+  "new_dead": 0,
+  "total_hospitalized": 99,
+  "total_critical": 9
+}
