@@ -101,6 +101,7 @@ function getMergedResult(tablesResult) {
     }
     else {
       console.log('No new data found. No changes written.');
+      return;
     }
   }
   else {
@@ -118,6 +119,7 @@ function getMergedResult(tablesResult) {
       fs.writeFileSync(LASTUPDATE_FILENAME, lastUpdateJSON);
 
       console.log('Changes found. Update date: ' + lastUpdateDate);
+      return;
     }
     else {
       console.log('No new data found. No changes written.');
