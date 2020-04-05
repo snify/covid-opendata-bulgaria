@@ -97,18 +97,17 @@ function getMergedResult(tablesResult) {
       fs.writeFileSync(STREAM_FILENAME, jsonData.historical);
       fs.writeFileSync(LASTUPDATE_FILENAME, lastUpdateJSON);
 
-      console.log('Changes found. Update date: ' + lastUpdateDate);
+      console.log('[' + STREAM_FILENAME + '] Changes found. Update date: ' + lastUpdateDate);
     }
     else {
-      console.log('No new data found. No changes written.');
-      return;
+      console.log('[' + STREAM_FILENAME + '] No new data found. No changes written.');
     }
   }
   else {
     fs.writeFileSync(STREAM_FILENAME, jsonData.historical);
     fs.writeFileSync(LASTUPDATE_FILENAME, lastUpdateJSON);
 
-    console.log('Changes found. Update date: ' + lastUpdateDate);
+    console.log('[' + STREAM_FILENAME + '] Changes found. Update date: ' + lastUpdateDate);
   }
 
   if (latestExists) {
@@ -118,18 +117,17 @@ function getMergedResult(tablesResult) {
       fs.writeFileSync(LATEST_FILENAME, jsonData.latest);
       fs.writeFileSync(LASTUPDATE_FILENAME, lastUpdateJSON);
 
-      console.log('Changes found. Update date: ' + lastUpdateDate);
-      return;
+      console.log('[' + LATEST_FILENAME + '] Changes found. Update date: ' + lastUpdateDate);
     }
     else {
-      console.log('No new data found. No changes written.');
+      console.log('[' + LATEST_FILENAME + '] No new data found. No changes written.');
     }
   }
   else {
     fs.writeFileSync(LATEST_FILENAME, jsonData.latest);
     fs.writeFileSync(LASTUPDATE_FILENAME, lastUpdateJSON);
 
-    console.log('Changes found. Update date: ' + lastUpdateDate);
+    console.log('[' + LATEST_FILENAME + '] Changes found. Update date: ' + lastUpdateDate);
   }
 
 })();

@@ -4,7 +4,7 @@
     "data": [
       {
         "name": "Blagoevgrad",
-        "total_cases": 0
+        "total_cases": 1
       },
       {
         "name": "Burgas",
@@ -80,19 +80,19 @@
       },
       {
         "name": "Smolyan",
-        "total_cases": 0
+        "total_cases": 1
       },
       {
         "name": "Sofia City",
-        "total_cases": 10
+        "total_cases": 15
       },
       {
         "name": "Stara Zagora",
-        "total_cases": 2
+        "total_cases": 3
       },
       {
         "name": "Haskovo",
-        "total_cases": 0
+        "total_cases": 1
       },
       {
         "name": "Shumen",
@@ -103,15 +103,15 @@
         "total_cases": 0
       }
     ],
-    "confirmed_cases_new": 19,
-    "confirmed_cases_total": 522,
-    "deaths_new": 0,
-    "deaths_total": 18,
+    "confirmed_cases_new": 28,
+    "confirmed_cases_total": 531,
+    "deaths_new": 2,
+    "deaths_total": 20,
     "recoveries_new": 3,
     "recoveries_total": 37,
-    "active_cases_total": 467,
-    "active_cases_icu": 26,
-    "active_cases_hospitalized": 192
+    "active_cases_total": 474,
+    "active_cases_icu": 22,
+    "active_cases_hospitalized": 210
   },
   {
     "date": "04-04-2020",
