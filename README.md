@@ -13,7 +13,7 @@ Open data aggregate about COVID-19 pandemic in Bulgaria
 * Лаборатории правещи тестове за COVID-19 (скоро ще бъде достъпно)
 
 <br><br>
-# API endpoint info
+## API endpoint info
 На това репо в /data има 3 файла, които се генерират автоматично през няколко часа:
 * [historical_data.json](/data/historical_data.json) - пълен JSON със случаите по дати и региони
 * [latest_data.json](/data/latest_data.json) - кратък JSON с новите случаи за деня по региони и summary за всички до този момент
