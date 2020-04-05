@@ -7,7 +7,7 @@ Open data aggregate about COVID-19 pandemic in Bulgaria
 <br>
 
 Събира се информация за:
-* [Статистика за заболели по региони по дни - /data](/data "API endpoint")
+* [Статистика за заболели по региони и по дни - /data](/data "API endpoint")
 * [Болници лекуващи COVID-19 в България (следва събиране на адреси и телефони) - /docs](/docs/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA%20%D0%B1%D0%BE%D0%BB%D0%BD%D0%B8%D1%86%D0%B8%20COVID-19%20%D0%B2%20%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F%20-%2027.03.2020%20revision%201.xlsx "Списък с болници")
 * Дарителски сметки на болници и други (скоро ще бъде достъпно)
 * Лаборатории правещи тестове за COVID-19 (скоро ще бъде достъпно)
@@ -21,7 +21,7 @@ Open data aggregate about COVID-19 pandemic in Bulgaria
 
 Източник на информацията: https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_pandemic_data/Bulgaria_medical_cases
 <br><br><br>
-P.S. Съжалявам за промените спрямо оригиналната версия
+*P.S. Съжалявам за промените спрямо оригиналната версия, но източника на данните е друг*
 <br><br>
 To be updated...
 
