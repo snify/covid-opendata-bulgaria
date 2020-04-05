@@ -13,11 +13,11 @@ Open data aggregate about COVID-19 pandemic in Bulgaria
 * Лаборатории правещи тестове за COVID-19 (скоро ще бъде достъпно)
 
 <br><br>
-## API endpoint info
+## API endpoints
 На това репо в /data има 3 файла, които се генерират автоматично през няколко часа:
-* [historical_data.json](/data/historical_data.json) - пълен JSON със случаите по дати и региони
-* [latest_data.json](/data/latest_data.json) - кратък JSON с новите случаи за деня по региони и summary за всички до този момент
-* [last_update.json](/data/last_update.json) - timestamp на последно обновяване на репото (случва се само при промени)
+* [historical_data.json](https://raw.githubusercontent.com/snify/covid-opendata-bulgaria/master/data/historical_data.json) - пълен JSON със случаите по дати и региони
+* [latest_data.json](https://raw.githubusercontent.com/snify/covid-opendata-bulgaria/master/data/latest_data.json) - кратък JSON с новите случаи за деня по региони и summary за всички до този момент
+* [last_update.json](https://raw.githubusercontent.com/snify/covid-opendata-bulgaria/master/data/last_update.json) - timestamp на последно обновяване на репото (случва се само при промени)
 
 Източник на информацията: https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_pandemic_data/Bulgaria_medical_cases
 <br><br><br>
