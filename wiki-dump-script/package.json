@@ -1,0 +1,16 @@
+{
+  "name": "covid-opendata-bulgaria-dump-script",
+  "version": "1.0.0",
+  "description": "Script dumping data from Wikipedia",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blez",
+  "license": "Unlicensed",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "moment": "^2.24.0"
+  }
+}
