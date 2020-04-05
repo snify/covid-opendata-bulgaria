@@ -1,7 +1,8 @@
 cd wiki-dump-script
-npm start
-pause
+node main.js
 cd ..
-git add .
+git pull
+git add data
 git commit -m "Automatic commit %date% %time%"
+git push origin master
 echo "Done"
