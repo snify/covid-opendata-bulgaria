@@ -3,16 +3,16 @@
   "data": [
     {
       "name": "Sofia City",
-      "total_cases": 18
+      "total_cases": 10
     }
   ],
-  "confirmed_cases_new": 18,
-  "confirmed_cases_total": 549,
-  "deaths_new": 2,
-  "deaths_total": 22,
+  "confirmed_cases_new": 10,
+  "confirmed_cases_total": 541,
+  "deaths_new": 1,
+  "deaths_total": 21,
   "recoveries_new": 2,
   "recoveries_total": 39,
-  "active_cases_total": 488,
-  "active_cases_icu": 26,
-  "active_cases_hospitalized": 201
+  "active_cases_total": 481,
+  "active_cases_icu": 22,
+  "active_cases_hospitalized": 210
 }
