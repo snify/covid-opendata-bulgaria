@@ -39,7 +39,7 @@ open data aggregate about COVID-19 pandemic in Bulgaria
   "recoveries_total": 39,          // Тотал възстановени до момента
   "active_cases_total": 481,       // Активни случаи в момента
   "active_cases_icu": 22,          // Активни хоспитализирани случаи (критични)
-  "active_cases_hospitalized": 210 // Активни хоспитализирани случаи (некритични)
+  "active_cases_hospitalized": 210 // Активни хоспитализирани случаи (тотал)
 }
 ```
 
