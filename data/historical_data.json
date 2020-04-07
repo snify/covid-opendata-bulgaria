@@ -1,5 +1,119 @@
 [
   {
+    "date": "07-04-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 2
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 1
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 1
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 1
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 0
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 1
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 0
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 2
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 1
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 1
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 0
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 9
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 6
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 3
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Unknown",
+        "total_cases": 0
+      }
+    ],
+    "confirmed_cases_new": 28,
+    "confirmed_cases_total": 577,
+    "deaths_new": 1,
+    "deaths_total": 23,
+    "recoveries_new": 3,
+    "recoveries_total": 42,
+    "active_cases_total": 512,
+    "active_cases_icu": 21,
+    "active_cases_hospitalized": 213
+  },
+  {
     "date": "06-04-2020",
     "data": [
       {
