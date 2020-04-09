@@ -1,26 +1,42 @@
 {
-  "date": "08-04-2020",
+  "date": "09-04-2020",
   "data": [
     {
-      "name": "Kyustendil",
-      "total_cases": 3
+      "name": "Dobrich",
+      "total_cases": 1
     },
     {
-      "name": "Smolyan",
+      "name": "Kyustendil",
+      "total_cases": 1
+    },
+    {
+      "name": "Pazardzhik",
+      "total_cases": 1
+    },
+    {
+      "name": "Plovdiv",
+      "total_cases": 1
+    },
+    {
+      "name": "Sliven",
       "total_cases": 2
     },
     {
       "name": "Sofia City",
       "total_cases": 11
+    },
+    {
+      "name": "Stara Zagora",
+      "total_cases": 1
     }
   ],
-  "confirmed_cases_new": 16,
-  "confirmed_cases_total": 593,
-  "deaths_new": 1,
+  "confirmed_cases_new": 18,
+  "confirmed_cases_total": 611,
+  "deaths_new": 0,
   "deaths_total": 24,
-  "recoveries_new": 0,
-  "recoveries_total": 42,
-  "active_cases_total": 527,
+  "recoveries_new": 6,
+  "recoveries_total": 48,
+  "active_cases_total": 539,
   "active_cases_icu": 27,
   "active_cases_hospitalized": 233
 }
