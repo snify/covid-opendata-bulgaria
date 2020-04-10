@@ -52,7 +52,7 @@
       },
       {
         "name": "Pazardzhik",
-        "total_cases": 1
+        "total_cases": 2
       },
       {
         "name": "Pernik",
@@ -84,7 +84,7 @@
       },
       {
         "name": "Sofia City",
-        "total_cases": 11
+        "total_cases": 17
       },
       {
         "name": "Stara Zagora",
@@ -103,15 +103,15 @@
         "total_cases": 0
       }
     ],
-    "confirmed_cases_new": 18,
-    "confirmed_cases_total": 611,
+    "confirmed_cases_new": 25,
+    "confirmed_cases_total": 618,
     "deaths_new": 0,
     "deaths_total": 24,
     "recoveries_new": 6,
     "recoveries_total": 48,
-    "active_cases_total": 539,
-    "active_cases_icu": 27,
-    "active_cases_hospitalized": 233
+    "active_cases_total": 546,
+    "active_cases_icu": 32,
+    "active_cases_hospitalized": 230
   },
   {
     "date": "08-04-2020",
