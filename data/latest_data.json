@@ -1,42 +1,34 @@
 {
-  "date": "09-04-2020",
+  "date": "10-04-2020",
   "data": [
     {
-      "name": "Dobrich",
-      "total_cases": 1
+      "name": "Veliko Tarnovo",
+      "total_cases": 4
     },
     {
       "name": "Kyustendil",
       "total_cases": 1
     },
     {
-      "name": "Pazardzhik",
+      "name": "Ruse",
       "total_cases": 2
     },
     {
-      "name": "Plovdiv",
+      "name": "Smolyan",
       "total_cases": 1
-    },
-    {
-      "name": "Sliven",
-      "total_cases": 2
     },
     {
       "name": "Sofia City",
-      "total_cases": 17
-    },
-    {
-      "name": "Stara Zagora",
-      "total_cases": 1
+      "total_cases": 9
     }
   ],
-  "confirmed_cases_new": 25,
-  "confirmed_cases_total": 618,
-  "deaths_new": 0,
-  "deaths_total": 24,
+  "confirmed_cases_new": 17,
+  "confirmed_cases_total": 635,
+  "deaths_new": 1,
+  "deaths_total": 25,
   "recoveries_new": 6,
-  "recoveries_total": 48,
-  "active_cases_total": 546,
-  "active_cases_icu": 32,
-  "active_cases_hospitalized": 230
+  "recoveries_total": 54,
+  "active_cases_total": 556,
+  "active_cases_icu": 33,
+  "active_cases_hospitalized": 231
 }
