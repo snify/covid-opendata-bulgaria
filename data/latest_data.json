@@ -1,34 +1,38 @@
 {
-  "date": "10-04-2020",
+  "date": "11-04-2020",
   "data": [
     {
-      "name": "Veliko Tarnovo",
-      "total_cases": 4
-    },
-    {
-      "name": "Kyustendil",
+      "name": "Burgas",
       "total_cases": 1
     },
     {
-      "name": "Ruse",
+      "name": "Veliko Tarnovo",
+      "total_cases": 1
+    },
+    {
+      "name": "Kardzhali",
       "total_cases": 2
     },
     {
-      "name": "Smolyan",
+      "name": "Kyustendil",
+      "total_cases": 3
+    },
+    {
+      "name": "Pazardzhik",
       "total_cases": 1
     },
     {
       "name": "Sofia City",
-      "total_cases": 9
+      "total_cases": 18
     }
   ],
-  "confirmed_cases_new": 17,
-  "confirmed_cases_total": 635,
-  "deaths_new": 1,
-  "deaths_total": 25,
-  "recoveries_new": 6,
-  "recoveries_total": 54,
-  "active_cases_total": 556,
-  "active_cases_icu": 33,
-  "active_cases_hospitalized": 231
+  "confirmed_cases_new": 26,
+  "confirmed_cases_total": 661,
+  "deaths_new": 2,
+  "deaths_total": 28,
+  "recoveries_new": 8,
+  "recoveries_total": 62,
+  "active_cases_total": 571,
+  "active_cases_icu": 35,
+  "active_cases_hospitalized": 230
 }
