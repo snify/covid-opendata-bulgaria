@@ -1,5 +1,115 @@
 [
   {
+    "date": "14-04-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 1
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 0
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 3
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 0
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 1
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 0
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 2
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 21
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 0
+      }
+    ],
+    "confirmed_cases_new": 28,
+    "confirmed_cases_total": 713,
+    "deaths_new": 3,
+    "deaths_total": 35,
+    "recoveries_new": 10,
+    "recoveries_total": 81,
+    "active_cases_total": 597,
+    "active_cases_icu": 29,
+    "active_cases_hospitalized": 209
+  },
+  {
     "date": "13-04-2020",
     "data": [
       {
@@ -15,15 +125,15 @@
         "total_cases": 0
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
         "name": "Vidin",
         "total_cases": 0
       },
       {
         "name": "Vratsa",
-        "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
         "total_cases": 0
       },
       {
@@ -125,15 +235,15 @@
         "total_cases": 0
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
         "name": "Vidin",
         "total_cases": 0
       },
       {
         "name": "Vratsa",
-        "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
         "total_cases": 0
       },
       {
@@ -235,16 +345,16 @@
         "total_cases": 0
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 1
+      },
+      {
         "name": "Vidin",
         "total_cases": 0
       },
       {
         "name": "Vratsa",
         "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
-        "total_cases": 1
       },
       {
         "name": "Gabrovo",
@@ -345,16 +455,16 @@
         "total_cases": 0
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 4
+      },
+      {
         "name": "Vidin",
         "total_cases": 0
       },
       {
         "name": "Vratsa",
         "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
-        "total_cases": 4
       },
       {
         "name": "Gabrovo",
@@ -455,15 +565,15 @@
         "total_cases": 0
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
         "name": "Vidin",
         "total_cases": 0
       },
       {
         "name": "Vratsa",
-        "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
         "total_cases": 0
       },
       {
@@ -565,15 +675,15 @@
         "total_cases": 0
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
         "name": "Vidin",
         "total_cases": 0
       },
       {
         "name": "Vratsa",
-        "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
         "total_cases": 0
       },
       {
@@ -675,16 +785,16 @@
         "total_cases": 0
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
         "name": "Vidin",
         "total_cases": 0
       },
       {
         "name": "Vratsa",
         "total_cases": 1
-      },
-      {
-        "name": "Veliko Tarnovo",
-        "total_cases": 0
       },
       {
         "name": "Gabrovo",
@@ -785,15 +895,15 @@
         "total_cases": 0
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
         "name": "Vidin",
         "total_cases": 0
       },
       {
         "name": "Vratsa",
-        "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
         "total_cases": 0
       },
       {
@@ -895,15 +1005,15 @@
         "total_cases": 0
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
         "name": "Vidin",
         "total_cases": 0
       },
       {
         "name": "Vratsa",
-        "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
         "total_cases": 0
       },
       {
@@ -1005,16 +1115,16 @@
         "total_cases": 1
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
         "name": "Vidin",
         "total_cases": 0
       },
       {
         "name": "Vratsa",
         "total_cases": 1
-      },
-      {
-        "name": "Veliko Tarnovo",
-        "total_cases": 0
       },
       {
         "name": "Gabrovo",
@@ -1115,16 +1225,16 @@
         "total_cases": 0
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 1
+      },
+      {
         "name": "Vidin",
         "total_cases": 1
       },
       {
         "name": "Vratsa",
         "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
-        "total_cases": 1
       },
       {
         "name": "Gabrovo",
@@ -1225,16 +1335,16 @@
         "total_cases": 3
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 1
+      },
+      {
         "name": "Vidin",
         "total_cases": 1
       },
       {
         "name": "Vratsa",
         "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
-        "total_cases": 1
       },
       {
         "name": "Gabrovo",
@@ -1335,15 +1445,15 @@
         "total_cases": 0
       },
       {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
         "name": "Vidin",
         "total_cases": 0
       },
       {
         "name": "Vratsa",
-        "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
         "total_cases": 0
       },
       {

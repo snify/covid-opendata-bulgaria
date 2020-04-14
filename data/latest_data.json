@@ -1,26 +1,34 @@
 {
-  "date": "13-04-2020",
+  "date": "14-04-2020",
   "data": [
     {
-      "name": "Pazardzhik",
+      "name": "Blagoevgrad",
       "total_cases": 1
     },
     {
-      "name": "Sofia City",
-      "total_cases": 5
+      "name": "Kyustendil",
+      "total_cases": 3
     },
     {
-      "name": "Stara Zagora",
-      "total_cases": 4
+      "name": "Plovdiv",
+      "total_cases": 1
+    },
+    {
+      "name": "Smolyan",
+      "total_cases": 2
+    },
+    {
+      "name": "Sofia City",
+      "total_cases": 21
     }
   ],
-  "confirmed_cases_new": 10,
-  "confirmed_cases_total": 685,
+  "confirmed_cases_new": 28,
+  "confirmed_cases_total": 713,
   "deaths_new": 3,
-  "deaths_total": 32,
-  "recoveries_new": 3,
-  "recoveries_total": 71,
-  "active_cases_total": 582,
-  "active_cases_icu": 36,
-  "active_cases_hospitalized": 230
+  "deaths_total": 35,
+  "recoveries_new": 10,
+  "recoveries_total": 81,
+  "active_cases_total": 597,
+  "active_cases_icu": 29,
+  "active_cases_hospitalized": 209
 }
