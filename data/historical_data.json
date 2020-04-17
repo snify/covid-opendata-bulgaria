@@ -1,5 +1,233 @@
 [
   {
+    "date": "16-04-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 1
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 1
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 2
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 1
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 1
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 1
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 2
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 0
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 1
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 1
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 1
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 2
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 39
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
+      }
+    ],
+    "confirmed_cases_new": 53,
+    "confirmed_cases_total": 800,
+    "deaths_new": 2,
+    "deaths_total": 38,
+    "recoveries_new": 17,
+    "recoveries_total": 122,
+    "active_cases_total": 640,
+    "active_cases_icu": 37,
+    "active_cases_hospitalized": 227
+  },
+  {
+    "date": "15-04-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 0
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 1
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 0
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 1
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 0
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 0
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 2
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 7
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 20
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 1
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 1
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 1
+      }
+    ],
+    "confirmed_cases_new": 34,
+    "confirmed_cases_total": 747,
+    "deaths_new": 1,
+    "deaths_total": 36,
+    "recoveries_new": 24,
+    "recoveries_total": 105,
+    "active_cases_total": 606,
+    "active_cases_icu": 31,
+    "active_cases_hospitalized": 218
+  },
+  {
     "date": "14-04-2020",
     "data": [
       {
@@ -96,6 +324,10 @@
       },
       {
         "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
         "total_cases": 0
       }
     ],
@@ -207,6 +439,10 @@
       {
         "name": "Shumen",
         "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
       }
     ],
     "confirmed_cases_new": 10,
@@ -316,6 +552,10 @@
       },
       {
         "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
         "total_cases": 0
       }
     ],
@@ -427,6 +667,10 @@
       {
         "name": "Shumen",
         "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
       }
     ],
     "confirmed_cases_new": 26,
@@ -536,6 +780,10 @@
       },
       {
         "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
         "total_cases": 0
       }
     ],
@@ -647,6 +895,10 @@
       {
         "name": "Shumen",
         "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
       }
     ],
     "confirmed_cases_new": 25,
@@ -756,6 +1008,10 @@
       },
       {
         "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
         "total_cases": 0
       }
     ],
@@ -867,6 +1123,10 @@
       {
         "name": "Shumen",
         "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
       }
     ],
     "confirmed_cases_new": 28,
@@ -976,6 +1236,10 @@
       },
       {
         "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
         "total_cases": 0
       }
     ],
@@ -1087,6 +1351,10 @@
       {
         "name": "Shumen",
         "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
       }
     ],
     "confirmed_cases_new": 28,
@@ -1196,6 +1464,10 @@
       },
       {
         "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
         "total_cases": 0
       }
     ],
@@ -1307,6 +1579,10 @@
       {
         "name": "Shumen",
         "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
       }
     ],
     "confirmed_cases_new": 28,
@@ -1417,6 +1693,10 @@
       {
         "name": "Shumen",
         "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
       }
     ],
     "confirmed_cases_new": 35,
@@ -1526,6 +1806,10 @@
       },
       {
         "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
         "total_cases": 0
       }
     ],
