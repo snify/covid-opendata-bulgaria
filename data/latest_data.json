@@ -1,36 +1,28 @@
 {
-  "date": "16-04-2020",
+  "date": "17-04-2020",
   "data": [
     {
-      "name": "Blagoevgrad",
+      "name": "Burgas",
       "total_cases": 1
     },
     {
-      "name": "Veliko Tarnovo",
+      "name": "Varna",
       "total_cases": 1
     },
     {
       "name": "Vidin",
-      "total_cases": 2
+      "total_cases": 14
     },
     {
       "name": "Gabrovo",
       "total_cases": 1
     },
     {
-      "name": "Dobrich",
+      "name": "Pazardzhik",
       "total_cases": 1
     },
     {
-      "name": "Kardzhali",
-      "total_cases": 1
-    },
-    {
-      "name": "Kyustendil",
-      "total_cases": 2
-    },
-    {
-      "name": "Plovdiv",
+      "name": "Pleven",
       "total_cases": 1
     },
     {
@@ -39,24 +31,36 @@
     },
     {
       "name": "Sliven",
-      "total_cases": 1
-    },
-    {
-      "name": "Smolyan",
       "total_cases": 2
     },
     {
+      "name": "Smolyan",
+      "total_cases": 1
+    },
+    {
       "name": "Sofia City",
-      "total_cases": 39
+      "total_cases": 11
+    },
+    {
+      "name": "Stara Zagora",
+      "total_cases": 7
+    },
+    {
+      "name": "Haskovo",
+      "total_cases": 4
+    },
+    {
+      "name": "Yambol",
+      "total_cases": 1
     }
   ],
-  "confirmed_cases_new": 53,
-  "confirmed_cases_total": 800,
-  "deaths_new": 2,
-  "deaths_total": 38,
-  "recoveries_new": 17,
-  "recoveries_total": 122,
-  "active_cases_total": 640,
-  "active_cases_icu": 37,
-  "active_cases_hospitalized": 227
+  "confirmed_cases_new": 46,
+  "confirmed_cases_total": 846,
+  "deaths_new": 3,
+  "deaths_total": 41,
+  "recoveries_new": 19,
+  "recoveries_total": 141,
+  "active_cases_total": 664,
+  "active_cases_icu": 34,
+  "active_cases_hospitalized": 244
 }
