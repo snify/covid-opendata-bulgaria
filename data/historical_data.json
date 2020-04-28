@@ -1,5 +1,233 @@
 [
   {
+    "date": "27-04-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 0
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 4
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 11
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 0
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 6
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 23
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 2
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 1
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 0
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 15
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 1
+      }
+    ],
+    "confirmed_cases_new": 63,
+    "confirmed_cases_total": 1363,
+    "deaths_new": 2,
+    "deaths_total": 58,
+    "recoveries_new": 1,
+    "recoveries_total": 206,
+    "active_cases_total": 1099,
+    "active_cases_icu": 39,
+    "active_cases_hospitalized": 301
+  },
+  {
+    "date": "26-04-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 3
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 1
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 0
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 15
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 1
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 3
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 0
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 2
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 4
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 0
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 22
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 1
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 1
+      }
+    ],
+    "confirmed_cases_new": 53,
+    "confirmed_cases_total": 1300,
+    "deaths_new": 1,
+    "deaths_total": 56,
+    "recoveries_new": 8,
+    "recoveries_total": 205,
+    "active_cases_total": 1039,
+    "active_cases_icu": 41,
+    "active_cases_hospitalized": 301
+  },
+  {
     "date": "25-04-2020",
     "data": [
       {
