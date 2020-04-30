@@ -1,5 +1,5 @@
 {
-  "date": "28-04-2020",
+  "date": "29-04-2020",
   "data": [
     {
       "name": "Blagoevgrad",
@@ -7,48 +7,52 @@
     },
     {
       "name": "Vidin",
-      "total_cases": 9
+      "total_cases": 1
     },
     {
-      "name": "Gabrovo",
-      "total_cases": 1
+      "name": "Vratsa",
+      "total_cases": 4
     },
     {
       "name": "Kyustendil",
-      "total_cases": 4
-    },
-    {
-      "name": "Pazardzhik",
-      "total_cases": 2
+      "total_cases": 3
     },
     {
       "name": "Pleven",
-      "total_cases": 1
+      "total_cases": 8
     },
     {
       "name": "Plovdiv",
-      "total_cases": 4
+      "total_cases": 11
+    },
+    {
+      "name": "Ruse",
+      "total_cases": 1
     },
     {
       "name": "Sliven",
-      "total_cases": 2
+      "total_cases": 3
     },
     {
       "name": "Sofia City",
-      "total_cases": 11
+      "total_cases": 14
     },
     {
       "name": "Haskovo",
       "total_cases": 1
+    },
+    {
+      "name": "Yambol",
+      "total_cases": 1
     }
   ],
-  "confirmed_cases_new": 36,
-  "confirmed_cases_total": 1399,
-  "deaths_new": 0,
-  "deaths_total": 58,
-  "recoveries_new": 16,
-  "recoveries_total": 222,
-  "active_cases_total": 1119,
-  "active_cases_icu": 39,
-  "active_cases_hospitalized": 287
+  "confirmed_cases_new": 48,
+  "confirmed_cases_total": 1447,
+  "deaths_new": 6,
+  "deaths_total": 64,
+  "recoveries_new": 21,
+  "recoveries_total": 243,
+  "active_cases_total": 1140,
+  "active_cases_icu": 38,
+  "active_cases_hospitalized": 310
 }
