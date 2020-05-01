@@ -1,58 +1,51 @@
 {
-  "date": "29-04-2020",
+  "date": "02-05-2020",
   "data": [
     {
-      "name": "Blagoevgrad",
-      "total_cases": 1
+      "name": "Varna",
+      "total_cases": 2
+    },
+    {
+      "name": "Veliko Tarnovo",
+      "total_cases": 8
     },
     {
       "name": "Vidin",
       "total_cases": 1
     },
     {
-      "name": "Vratsa",
+      "name": "Pazardzhik",
       "total_cases": 4
     },
     {
-      "name": "Kyustendil",
-      "total_cases": 3
-    },
-    {
-      "name": "Pleven",
+      "name": "Pernik",
       "total_cases": 8
     },
     {
-      "name": "Plovdiv",
-      "total_cases": 11
-    },
-    {
-      "name": "Ruse",
-      "total_cases": 1
-    },
-    {
-      "name": "Sliven",
+      "name": "Pleven",
       "total_cases": 3
     },
     {
-      "name": "Sofia City",
-      "total_cases": 14
+      "name": "Plovdiv",
+      "total_cases": 2
     },
     {
-      "name": "Haskovo",
+      "name": "Silistra",
+      "total_cases": 4
+    },
+    {
+      "name": "Sliven",
       "total_cases": 1
     },
     {
-      "name": "Yambol",
-      "total_cases": 1
+      "name": "Smolyan",
+      "total_cases": 12
+    },
+    {
+      "name": "Shumen",
+      "total_cases": 2
     }
   ],
-  "confirmed_cases_new": 48,
-  "confirmed_cases_total": 1447,
-  "deaths_new": 6,
-  "deaths_total": 64,
-  "recoveries_new": 21,
-  "recoveries_total": 243,
-  "active_cases_total": 1140,
-  "active_cases_icu": 38,
-  "active_cases_hospitalized": 310
+  "active_cases_icu": 0,
+  "active_cases_hospitalized": 0
 }
