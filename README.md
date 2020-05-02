@@ -33,9 +33,9 @@ open data aggregate about COVID-19 pandemic in Bulgaria
   ],
   "confirmed_cases_new": 10,       // Потвърдени нови случаи за деня
   "confirmed_cases_total": 541,    // Тотал потвърдени случаи до момента
-  "deaths_new": 1,                 // Брои смъртни случаи за деня
+  "deaths_new": 1,                 // Брой смъртни случаи за деня
   "deaths_total": 21,              // Тотал смъртни случаи до момента
-  "recoveries_new": 2,             // Брои възстановени за деня
+  "recoveries_new": 2,             // Брой възстановени за деня
   "recoveries_total": 39,          // Тотал възстановени до момента
   "active_cases_total": 481,       // Активни случаи в момента
   "active_cases_icu": 22,          // Активни хоспитализирани случаи (критични)
@@ -51,8 +51,6 @@ open data aggregate about COVID-19 pandemic in Bulgaria
 
 Източник на информацията: https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_pandemic_data/Bulgaria_medical_cases
 <br><br><br>
-*P.S. Съжалявам за промените спрямо оригиналната версия, но източника на данните е друг*
-<br><br>
 To be updated...
 
 **#stayhome**
