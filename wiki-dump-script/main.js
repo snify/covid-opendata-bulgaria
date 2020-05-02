@@ -16,12 +16,13 @@ const LATEST_FILENAME = DATA_DIR + 'latest_data.json';
 const LASTUPDATE_FILENAME = DATA_DIR + 'last_update.json';
 
 const WIKI_URL = 'https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_pandemic_data/Bulgaria_medical_cases';
+const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0';
 
 async function getAllData() {
   try {
     let tablesResult = [];
 
-    const response = await axios.get(WIKI_URL);
+    const response = await axios.get(WIKI_URL, { headers: { 'User-Agent': USER_AGENT } });
     let data = response.data;
 
     const $ = await cheerio.load(data);
@@ -78,7 +79,6 @@ function getMergedResult(tablesResult) {
 
 (async function () {
   // a bit verbose, but, yea
-
   let jsonData = await getAllData();
 
   let streamExists = fs.existsSync(STREAM_FILENAME);
@@ -134,7 +134,7 @@ function getMergedResult(tablesResult) {
 
 
 // same as: dump-wikipedia-browserscript.js
-function dumpTable(index = 0, $) {
+function dumpTable(index = 0, $ = $) {
 
   let rows = Array.from($($('.wikitable')[index]).find('tr'));
 
@@ -198,8 +198,9 @@ function dumpTable(index = 0, $) {
 
   // data dump
   for (let i = 2; i < rows.length - 2; i++) {
-    let currentRow = $(rows[i]).find('td');
+    let currentRow = $(rows[i]).find('td, th');
     let currentDate = $(currentRow[0]).text().trim();
+
     let resultRow = {
       date: currentDate,
       data: []

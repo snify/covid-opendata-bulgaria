@@ -63,7 +63,7 @@ function dumpTable(index = 0) {
 
   // data dump
   for (let i = 2; i < rows.length - 2; i++) {
-    let currentRow = $(rows[i]).find('td');
+    let currentRow = $(rows[i]).find('td, th');
     let currentDate = $(currentRow[0]).text().trim();
     let resultRow = {
       date: currentDate,
