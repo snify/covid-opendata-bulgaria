@@ -1,62 +1,50 @@
 {
-  "date": "05-05-2020",
+  "date": "07-05-2020",
   "data": [
     {
       "name": "Blagoevgrad",
+      "total_cases": 2
+    },
+    {
+      "name": "Burgas",
       "total_cases": 3
     },
     {
-      "name": "Veliko Tarnovo",
-      "total_cases": 1
-    },
-    {
-      "name": "Vidin",
-      "total_cases": 4
-    },
-    {
-      "name": "Gabrovo",
+      "name": "Varna",
       "total_cases": 1
     },
     {
       "name": "Kyustendil",
-      "total_cases": 5
-    },
-    {
-      "name": "Montana",
-      "total_cases": 2
+      "total_cases": 1
     },
     {
       "name": "Pazardzhik",
-      "total_cases": 6
+      "total_cases": 5
     },
     {
       "name": "Pleven",
-      "total_cases": 7
+      "total_cases": 5
     },
     {
-      "name": "Sliven",
+      "name": "Plovdiv",
       "total_cases": 1
     },
     {
       "name": "Sofia City",
-      "total_cases": 7
-    },
-    {
-      "name": "Haskovo",
-      "total_cases": 4
+      "total_cases": 17
     },
     {
       "name": "Yambol",
-      "total_cases": 11
+      "total_cases": 16
     }
   ],
-  "confirmed_cases_new": 52,
-  "confirmed_cases_total": 1704,
-  "deaths_new": 2,
-  "deaths_total": 80,
-  "recoveries_new": 21,
-  "recoveries_total": 342,
-  "active_cases_total": 1282,
-  "active_cases_icu": 39,
-  "active_cases_hospitalized": 316
+  "confirmed_cases_new": 51,
+  "confirmed_cases_total": 1829,
+  "deaths_new": 0,
+  "deaths_total": 84,
+  "recoveries_new": 24,
+  "recoveries_total": 384,
+  "active_cases_total": 1361,
+  "active_cases_icu": 43,
+  "active_cases_hospitalized": 355
 }
