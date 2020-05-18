@@ -1,5 +1,127 @@
 [
   {
+    "date": "17-05-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 3
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 0
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 0
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 6
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 3
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 3
+      },
+      {
+        "name": "Razgrad",
+        "total_cases": 0
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 1
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 2
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 2
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 10
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 0
+      },
+      {
+        "name": "Targovishte",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 6
+      }
+    ],
+    "confirmed_cases_new": 36,
+    "confirmed_cases_total": 2211,
+    "deaths_new": 3,
+    "deaths_total": 108,
+    "recoveries_new": 25,
+    "recoveries_total": 598,
+    "active_cases_total": 1505,
+    "active_cases_icu": 46,
+    "active_cases_hospitalized": 323
+  },
+  {
     "date": "16-05-2020",
     "data": [
       {

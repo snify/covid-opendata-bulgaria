@@ -1,54 +1,50 @@
 {
-  "date": "16-05-2020",
+  "date": "17-05-2020",
   "data": [
     {
       "name": "Blagoevgrad",
-      "total_cases": 2
-    },
-    {
-      "name": "Vidin",
-      "total_cases": 2
-    },
-    {
-      "name": "Kyustendil",
-      "total_cases": 1
-    },
-    {
-      "name": "Pazardzhik",
       "total_cases": 3
     },
     {
+      "name": "Pazardzhik",
+      "total_cases": 6
+    },
+    {
       "name": "Pleven",
-      "total_cases": 2
+      "total_cases": 3
     },
     {
       "name": "Plovdiv",
+      "total_cases": 3
+    },
+    {
+      "name": "Ruse",
       "total_cases": 1
     },
     {
       "name": "Sliven",
-      "total_cases": 1
+      "total_cases": 2
     },
     {
       "name": "Smolyan",
-      "total_cases": 1
+      "total_cases": 2
     },
     {
       "name": "Sofia City",
-      "total_cases": 23
+      "total_cases": 10
     },
     {
       "name": "Yambol",
-      "total_cases": 1
+      "total_cases": 6
     }
   ],
-  "confirmed_cases_new": 37,
-  "confirmed_cases_total": 2175,
+  "confirmed_cases_new": 36,
+  "confirmed_cases_total": 2211,
   "deaths_new": 3,
-  "deaths_total": 105,
-  "recoveries_new": 28,
-  "recoveries_total": 573,
-  "active_cases_total": 1497,
-  "active_cases_icu": 45,
-  "active_cases_hospitalized": 322
+  "deaths_total": 108,
+  "recoveries_new": 25,
+  "recoveries_total": 598,
+  "active_cases_total": 1505,
+  "active_cases_icu": 46,
+  "active_cases_hospitalized": 323
 }
