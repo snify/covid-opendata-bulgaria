@@ -1,5 +1,981 @@
 [
   {
+    "date": "14-06-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 0
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 3
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 2
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 0
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 5
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 1
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 12
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 1
+      },
+      {
+        "name": "Razgrad",
+        "total_cases": 1
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 11
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 2
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 21
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 3
+      },
+      {
+        "name": "Targovishte",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 2
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 10
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 1
+      }
+    ],
+    "confirmed_cases_new": 75,
+    "confirmed_cases_total": 3266,
+    "deaths_new": 0,
+    "deaths_total": 172,
+    "recoveries_new": 7,
+    "recoveries_total": 1723,
+    "active_cases_total": 1371,
+    "active_cases_icu": 0,
+    "active_cases_hospitalized": 0
+  },
+  {
+    "date": "13-06-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 1
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 1
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 2
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 1
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 2
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 1
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 12
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 3
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 3
+      },
+      {
+        "name": "Razgrad",
+        "total_cases": 1
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 7
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 8
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 26
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 22
+      },
+      {
+        "name": "Targovishte",
+        "total_cases": 2
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 1
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 12
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
+      }
+    ],
+    "confirmed_cases_new": 105,
+    "confirmed_cases_total": 3191,
+    "deaths_new": 4,
+    "deaths_total": 172,
+    "recoveries_new": 28,
+    "recoveries_total": 1716,
+    "active_cases_total": 1303,
+    "active_cases_icu": 0,
+    "active_cases_hospitalized": 0
+  },
+  {
+    "date": "12-06-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 0
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 1
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 1
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 1
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 1
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 12
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 0
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 3
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 2
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 4
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 2
+      },
+      {
+        "name": "Razgrad",
+        "total_cases": 2
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 9
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 2
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 35
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 1
+      },
+      {
+        "name": "Targovishte",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 4
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 11
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 2
+      }
+    ],
+    "confirmed_cases_new": 93,
+    "confirmed_cases_total": 3086,
+    "deaths_new": 1,
+    "deaths_total": 168,
+    "recoveries_new": 24,
+    "recoveries_total": 1688,
+    "active_cases_total": 1230,
+    "active_cases_icu": 0,
+    "active_cases_hospitalized": 0
+  },
+  {
+    "date": "11-06-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 2
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 1
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 1
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 0
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 2
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 1
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 4
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 0
+      },
+      {
+        "name": "Razgrad",
+        "total_cases": 3
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 8
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 41
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 23
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 15
+      },
+      {
+        "name": "Targovishte",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 1
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 2
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
+      }
+    ],
+    "confirmed_cases_new": 104,
+    "confirmed_cases_total": 2993,
+    "deaths_new": 0,
+    "deaths_total": 167,
+    "recoveries_new": 41,
+    "recoveries_total": 1664,
+    "active_cases_total": 1162,
+    "active_cases_icu": 0,
+    "active_cases_hospitalized": 0
+  },
+  {
+    "date": "10-06-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 0
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 2
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 1
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 1
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 0
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 16
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 4
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 1
+      },
+      {
+        "name": "Razgrad",
+        "total_cases": 2
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 16
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 0
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 23
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 0
+      },
+      {
+        "name": "Targovishte",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 12
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 1
+      }
+    ],
+    "confirmed_cases_new": 79,
+    "confirmed_cases_total": 2889,
+    "deaths_new": 3,
+    "deaths_total": 167,
+    "recoveries_new": 36,
+    "recoveries_total": 1623,
+    "active_cases_total": 1099,
+    "active_cases_icu": 0,
+    "active_cases_hospitalized": 0
+  },
+  {
+    "date": "09-06-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 2
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 0
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 0
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 1
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 3
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 1
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 0
+      },
+      {
+        "name": "Razgrad",
+        "total_cases": 3
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 1
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 52
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 18
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 1
+      },
+      {
+        "name": "Targovishte",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 1
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
+      }
+    ],
+    "confirmed_cases_new": 83,
+    "confirmed_cases_total": 2810,
+    "deaths_new": 4,
+    "deaths_total": 164,
+    "recoveries_new": 39,
+    "recoveries_total": 1587,
+    "active_cases_total": 1059,
+    "active_cases_icu": 0,
+    "active_cases_hospitalized": 0
+  },
+  {
+    "date": "08-06-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 2
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 0
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 0
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 2
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 0
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 0
+      },
+      {
+        "name": "Razgrad",
+        "total_cases": 0
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 2
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 0
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 10
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 0
+      },
+      {
+        "name": "Targovishte",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
+      }
+    ],
+    "confirmed_cases_new": 16,
+    "confirmed_cases_total": 2727,
+    "deaths_new": 0,
+    "deaths_total": 160,
+    "recoveries_new": 3,
+    "recoveries_total": 1548,
+    "active_cases_total": 1019,
+    "active_cases_icu": 0,
+    "active_cases_hospitalized": 0
+  },
+  {
+    "date": "07-06-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 0
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 0
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 0
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 21
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 1
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 0
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 0
+      },
+      {
+        "name": "Razgrad",
+        "total_cases": 2
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 10
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 1
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 5
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 0
+      },
+      {
+        "name": "Targovishte",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 2
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 1
+      }
+    ],
+    "confirmed_cases_new": 43,
+    "confirmed_cases_total": 2711,
+    "deaths_new": 0,
+    "deaths_total": 160,
+    "recoveries_new": 17,
+    "recoveries_total": 1545,
+    "active_cases_total": 1006,
+    "active_cases_icu": 0,
+    "active_cases_hospitalized": 0
+  },
+  {
     "date": "06-06-2020",
     "data": [
       {
@@ -608,462 +1584,6 @@
     "active_cases_total": 1289,
     "active_cases_icu": 0,
     "active_cases_hospitalized": 0
-  },
-  {
-    "date": "14-04-2020",
-    "data": [
-      {
-        "name": "Blagoevgrad",
-        "total_cases": 1
-      },
-      {
-        "name": "Burgas",
-        "total_cases": 0
-      },
-      {
-        "name": "Varna",
-        "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
-        "total_cases": 0
-      },
-      {
-        "name": "Vidin",
-        "total_cases": 0
-      },
-      {
-        "name": "Vratsa",
-        "total_cases": 0
-      },
-      {
-        "name": "Gabrovo",
-        "total_cases": 0
-      },
-      {
-        "name": "Dobrich",
-        "total_cases": 0
-      },
-      {
-        "name": "Kardzhali",
-        "total_cases": 0
-      },
-      {
-        "name": "Kyustendil",
-        "total_cases": 3
-      },
-      {
-        "name": "Lovech",
-        "total_cases": 0
-      },
-      {
-        "name": "Montana",
-        "total_cases": 0
-      },
-      {
-        "name": "Pazardzhik",
-        "total_cases": 0
-      },
-      {
-        "name": "Pernik",
-        "total_cases": 0
-      },
-      {
-        "name": "Pleven",
-        "total_cases": 0
-      },
-      {
-        "name": "Plovdiv",
-        "total_cases": 1
-      },
-      {
-        "name": "Ruse",
-        "total_cases": 0
-      },
-      {
-        "name": "Silistra",
-        "total_cases": 0
-      },
-      {
-        "name": "Sliven",
-        "total_cases": 0
-      },
-      {
-        "name": "Smolyan",
-        "total_cases": 2
-      },
-      {
-        "name": "Sofia City",
-        "total_cases": 21
-      },
-      {
-        "name": "Stara Zagora",
-        "total_cases": 0
-      },
-      {
-        "name": "Haskovo",
-        "total_cases": 0
-      },
-      {
-        "name": "Shumen",
-        "total_cases": 0
-      },
-      {
-        "name": "Yambol",
-        "total_cases": 0
-      }
-    ],
-    "confirmed_cases_new": 28,
-    "confirmed_cases_total": 713,
-    "deaths_new": 3,
-    "deaths_total": 35,
-    "recoveries_new": 10,
-    "recoveries_total": 81,
-    "active_cases_total": 597,
-    "active_cases_icu": 29,
-    "active_cases_hospitalized": 209
-  },
-  {
-    "date": "13-04-2020",
-    "data": [
-      {
-        "name": "Blagoevgrad",
-        "total_cases": 0
-      },
-      {
-        "name": "Burgas",
-        "total_cases": 0
-      },
-      {
-        "name": "Varna",
-        "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
-        "total_cases": 0
-      },
-      {
-        "name": "Vidin",
-        "total_cases": 0
-      },
-      {
-        "name": "Vratsa",
-        "total_cases": 0
-      },
-      {
-        "name": "Gabrovo",
-        "total_cases": 0
-      },
-      {
-        "name": "Dobrich",
-        "total_cases": 0
-      },
-      {
-        "name": "Kardzhali",
-        "total_cases": 0
-      },
-      {
-        "name": "Kyustendil",
-        "total_cases": 0
-      },
-      {
-        "name": "Lovech",
-        "total_cases": 0
-      },
-      {
-        "name": "Montana",
-        "total_cases": 0
-      },
-      {
-        "name": "Pazardzhik",
-        "total_cases": 1
-      },
-      {
-        "name": "Pernik",
-        "total_cases": 0
-      },
-      {
-        "name": "Pleven",
-        "total_cases": 0
-      },
-      {
-        "name": "Plovdiv",
-        "total_cases": 0
-      },
-      {
-        "name": "Ruse",
-        "total_cases": 0
-      },
-      {
-        "name": "Silistra",
-        "total_cases": 0
-      },
-      {
-        "name": "Sliven",
-        "total_cases": 0
-      },
-      {
-        "name": "Smolyan",
-        "total_cases": 0
-      },
-      {
-        "name": "Sofia City",
-        "total_cases": 5
-      },
-      {
-        "name": "Stara Zagora",
-        "total_cases": 4
-      },
-      {
-        "name": "Haskovo",
-        "total_cases": 0
-      },
-      {
-        "name": "Shumen",
-        "total_cases": 0
-      },
-      {
-        "name": "Yambol",
-        "total_cases": 0
-      }
-    ],
-    "confirmed_cases_new": 10,
-    "confirmed_cases_total": 685,
-    "deaths_new": 3,
-    "deaths_total": 32,
-    "recoveries_new": 3,
-    "recoveries_total": 71,
-    "active_cases_total": 582,
-    "active_cases_icu": 36,
-    "active_cases_hospitalized": 230
-  },
-  {
-    "date": "12-04-2020",
-    "data": [
-      {
-        "name": "Blagoevgrad",
-        "total_cases": 0
-      },
-      {
-        "name": "Burgas",
-        "total_cases": 0
-      },
-      {
-        "name": "Varna",
-        "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
-        "total_cases": 0
-      },
-      {
-        "name": "Vidin",
-        "total_cases": 0
-      },
-      {
-        "name": "Vratsa",
-        "total_cases": 0
-      },
-      {
-        "name": "Gabrovo",
-        "total_cases": 0
-      },
-      {
-        "name": "Dobrich",
-        "total_cases": 0
-      },
-      {
-        "name": "Kardzhali",
-        "total_cases": 0
-      },
-      {
-        "name": "Kyustendil",
-        "total_cases": 0
-      },
-      {
-        "name": "Lovech",
-        "total_cases": 0
-      },
-      {
-        "name": "Montana",
-        "total_cases": 0
-      },
-      {
-        "name": "Pazardzhik",
-        "total_cases": 0
-      },
-      {
-        "name": "Pernik",
-        "total_cases": 0
-      },
-      {
-        "name": "Pleven",
-        "total_cases": 0
-      },
-      {
-        "name": "Plovdiv",
-        "total_cases": 2
-      },
-      {
-        "name": "Ruse",
-        "total_cases": 0
-      },
-      {
-        "name": "Silistra",
-        "total_cases": 0
-      },
-      {
-        "name": "Sliven",
-        "total_cases": 0
-      },
-      {
-        "name": "Smolyan",
-        "total_cases": 0
-      },
-      {
-        "name": "Sofia City",
-        "total_cases": 6
-      },
-      {
-        "name": "Stara Zagora",
-        "total_cases": 4
-      },
-      {
-        "name": "Haskovo",
-        "total_cases": 2
-      },
-      {
-        "name": "Shumen",
-        "total_cases": 0
-      },
-      {
-        "name": "Yambol",
-        "total_cases": 0
-      }
-    ],
-    "confirmed_cases_new": 14,
-    "confirmed_cases_total": 675,
-    "deaths_new": 1,
-    "deaths_total": 29,
-    "recoveries_new": 6,
-    "recoveries_total": 68,
-    "active_cases_total": 578,
-    "active_cases_icu": 36,
-    "active_cases_hospitalized": 230
-  },
-  {
-    "date": "11-04-2020",
-    "data": [
-      {
-        "name": "Blagoevgrad",
-        "total_cases": 0
-      },
-      {
-        "name": "Burgas",
-        "total_cases": 1
-      },
-      {
-        "name": "Varna",
-        "total_cases": 0
-      },
-      {
-        "name": "Veliko Tarnovo",
-        "total_cases": 1
-      },
-      {
-        "name": "Vidin",
-        "total_cases": 0
-      },
-      {
-        "name": "Vratsa",
-        "total_cases": 0
-      },
-      {
-        "name": "Gabrovo",
-        "total_cases": 0
-      },
-      {
-        "name": "Dobrich",
-        "total_cases": 0
-      },
-      {
-        "name": "Kardzhali",
-        "total_cases": 2
-      },
-      {
-        "name": "Kyustendil",
-        "total_cases": 3
-      },
-      {
-        "name": "Lovech",
-        "total_cases": 0
-      },
-      {
-        "name": "Montana",
-        "total_cases": 0
-      },
-      {
-        "name": "Pazardzhik",
-        "total_cases": 1
-      },
-      {
-        "name": "Pernik",
-        "total_cases": 0
-      },
-      {
-        "name": "Pleven",
-        "total_cases": 0
-      },
-      {
-        "name": "Plovdiv",
-        "total_cases": 0
-      },
-      {
-        "name": "Ruse",
-        "total_cases": 0
-      },
-      {
-        "name": "Silistra",
-        "total_cases": 0
-      },
-      {
-        "name": "Sliven",
-        "total_cases": 0
-      },
-      {
-        "name": "Smolyan",
-        "total_cases": 0
-      },
-      {
-        "name": "Sofia City",
-        "total_cases": 18
-      },
-      {
-        "name": "Stara Zagora",
-        "total_cases": 0
-      },
-      {
-        "name": "Haskovo",
-        "total_cases": 0
-      },
-      {
-        "name": "Shumen",
-        "total_cases": 0
-      },
-      {
-        "name": "Yambol",
-        "total_cases": 0
-      }
-    ],
-    "confirmed_cases_new": 26,
-    "confirmed_cases_total": 661,
-    "deaths_new": 3,
-    "deaths_total": 28,
-    "recoveries_new": 8,
-    "recoveries_total": 62,
-    "active_cases_total": 571,
-    "active_cases_icu": 35,
-    "active_cases_hospitalized": 230
   },
   {
     "date": "10-04-2020",
@@ -10956,6 +11476,462 @@
     "active_cases_total": 606,
     "active_cases_icu": 31,
     "active_cases_hospitalized": 218
+  },
+  {
+    "date": "14-04-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 1
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 0
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 3
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 0
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 1
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 0
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 2
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 21
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
+      }
+    ],
+    "confirmed_cases_new": 28,
+    "confirmed_cases_total": 713,
+    "deaths_new": 3,
+    "deaths_total": 35,
+    "recoveries_new": 10,
+    "recoveries_total": 81,
+    "active_cases_total": 597,
+    "active_cases_icu": 29,
+    "active_cases_hospitalized": 209
+  },
+  {
+    "date": "13-04-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 0
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 0
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 0
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 1
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 0
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 0
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 0
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 0
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 5
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 4
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
+      }
+    ],
+    "confirmed_cases_new": 10,
+    "confirmed_cases_total": 685,
+    "deaths_new": 3,
+    "deaths_total": 32,
+    "recoveries_new": 3,
+    "recoveries_total": 71,
+    "active_cases_total": 582,
+    "active_cases_icu": 36,
+    "active_cases_hospitalized": 230
+  },
+  {
+    "date": "12-04-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 0
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 0
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 0
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 0
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 0
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 2
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 0
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 0
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 6
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 4
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 2
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
+      }
+    ],
+    "confirmed_cases_new": 14,
+    "confirmed_cases_total": 675,
+    "deaths_new": 1,
+    "deaths_total": 29,
+    "recoveries_new": 6,
+    "recoveries_total": 68,
+    "active_cases_total": 578,
+    "active_cases_icu": 36,
+    "active_cases_hospitalized": 230
+  },
+  {
+    "date": "11-04-2020",
+    "data": [
+      {
+        "name": "Blagoevgrad",
+        "total_cases": 0
+      },
+      {
+        "name": "Burgas",
+        "total_cases": 1
+      },
+      {
+        "name": "Varna",
+        "total_cases": 0
+      },
+      {
+        "name": "Veliko Tarnovo",
+        "total_cases": 1
+      },
+      {
+        "name": "Vidin",
+        "total_cases": 0
+      },
+      {
+        "name": "Vratsa",
+        "total_cases": 0
+      },
+      {
+        "name": "Gabrovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Dobrich",
+        "total_cases": 0
+      },
+      {
+        "name": "Kardzhali",
+        "total_cases": 2
+      },
+      {
+        "name": "Kyustendil",
+        "total_cases": 3
+      },
+      {
+        "name": "Lovech",
+        "total_cases": 0
+      },
+      {
+        "name": "Montana",
+        "total_cases": 0
+      },
+      {
+        "name": "Pazardzhik",
+        "total_cases": 1
+      },
+      {
+        "name": "Pernik",
+        "total_cases": 0
+      },
+      {
+        "name": "Pleven",
+        "total_cases": 0
+      },
+      {
+        "name": "Plovdiv",
+        "total_cases": 0
+      },
+      {
+        "name": "Ruse",
+        "total_cases": 0
+      },
+      {
+        "name": "Silistra",
+        "total_cases": 0
+      },
+      {
+        "name": "Sliven",
+        "total_cases": 0
+      },
+      {
+        "name": "Smolyan",
+        "total_cases": 0
+      },
+      {
+        "name": "Sofia City",
+        "total_cases": 18
+      },
+      {
+        "name": "Stara Zagora",
+        "total_cases": 0
+      },
+      {
+        "name": "Haskovo",
+        "total_cases": 0
+      },
+      {
+        "name": "Shumen",
+        "total_cases": 0
+      },
+      {
+        "name": "Yambol",
+        "total_cases": 0
+      }
+    ],
+    "confirmed_cases_new": 26,
+    "confirmed_cases_total": 661,
+    "deaths_new": 3,
+    "deaths_total": 28,
+    "recoveries_new": 8,
+    "recoveries_total": 62,
+    "active_cases_total": 571,
+    "active_cases_icu": 35,
+    "active_cases_hospitalized": 230
   },
   {
     "date": "20-01-2020",
