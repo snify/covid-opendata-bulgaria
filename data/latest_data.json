@@ -1,70 +1,78 @@
 {
-  "date": "14-06-2020",
+  "date": "21-06-2020",
   "data": [
     {
-      "name": "Vidin",
+      "name": "Blagoevgrad",
+      "total_cases": 7
+    },
+    {
+      "name": "Burgas",
       "total_cases": 3
     },
     {
-      "name": "Gabrovo",
-      "total_cases": 2
+      "name": "Varna",
+      "total_cases": 4
     },
     {
-      "name": "Kyustendil",
+      "name": "Vidin",
       "total_cases": 5
     },
     {
-      "name": "Montana",
+      "name": "Gabrovo",
+      "total_cases": 1
+    },
+    {
+      "name": "Kardzhali",
+      "total_cases": 3
+    },
+    {
+      "name": "Kyustendil",
+      "total_cases": 19
+    },
+    {
+      "name": "Pazardzhik",
+      "total_cases": 2
+    },
+    {
+      "name": "Pernik",
       "total_cases": 1
     },
     {
       "name": "Pleven",
-      "total_cases": 12
-    },
-    {
-      "name": "Plovdiv",
-      "total_cases": 1
-    },
-    {
-      "name": "Razgrad",
-      "total_cases": 1
-    },
-    {
-      "name": "Sliven",
-      "total_cases": 11
-    },
-    {
-      "name": "Smolyan",
       "total_cases": 2
     },
     {
+      "name": "Plovdiv",
+      "total_cases": 8
+    },
+    {
+      "name": "Sliven",
+      "total_cases": 6
+    },
+    {
+      "name": "Smolyan",
+      "total_cases": 7
+    },
+    {
       "name": "Sofia City",
-      "total_cases": 21
+      "total_cases": 39
     },
     {
       "name": "Stara Zagora",
       "total_cases": 3
     },
     {
-      "name": "Haskovo",
-      "total_cases": 2
-    },
-    {
       "name": "Shumen",
-      "total_cases": 10
-    },
-    {
-      "name": "Yambol",
-      "total_cases": 1
+      "total_cases": 7
     }
   ],
-  "confirmed_cases_new": 75,
-  "confirmed_cases_total": 3266,
-  "deaths_new": 0,
-  "deaths_total": 172,
-  "recoveries_new": 7,
-  "recoveries_total": 1723,
-  "active_cases_total": 1371,
+  "confirmed_cases_new": 117,
+  "confirmed_cases_total": 3872,
+  "deaths_new": 6,
+  "deaths_total": 199,
+  "recoveries_new": 19,
+  "recoveries_total": 2027,
+  "active_cases_total": 1646,
   "active_cases_icu": 0,
   "active_cases_hospitalized": 0
 }
